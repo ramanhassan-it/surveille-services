@@ -1,0 +1,289 @@
+﻿date;nom;type;cible;etat;temps_ms;detail
+2026-11-14 18:00:02;box;ping;192.168.1.1;OK;4;
+2026-11-14 18:00:02;dns google;port;8.8.8.8:53;OK;18;
+2026-11-14 18:00:02;dns cloudflare;port;1.1.1.1:53;OK;19;
+2026-11-14 18:00:02;portfolio;http;https://ramanhassan.ch;OK;152;code 200
+2026-11-14 18:00:02;github;http;https://github.com;OK;198;code 200
+2026-11-14 18:00:02;disque C;disque;C:\;OK;0;82% utilise, 85.7 Go libre
+2026-11-14 19:00:02;box;ping;192.168.1.1;OK;2;
+2026-11-14 19:00:02;dns google;port;8.8.8.8:53;OK;20;
+2026-11-14 19:00:02;dns cloudflare;port;1.1.1.1:53;OK;12;
+2026-11-14 19:00:02;portfolio;http;https://ramanhassan.ch;OK;149;code 200
+2026-11-14 19:00:02;github;http;https://github.com;OK;202;code 200
+2026-11-14 19:00:02;disque C;disque;C:\;OK;1;82% utilise, 85.7 Go libre
+2026-11-14 20:00:03;box;ping;192.168.1.1;OK;3;
+2026-11-14 20:00:03;dns google;port;8.8.8.8:53;OK;15;
+2026-11-14 20:00:03;dns cloudflare;port;1.1.1.1:53;OK;10;
+2026-11-14 20:00:03;portfolio;http;https://ramanhassan.ch;OK;281;code 200
+2026-11-14 20:00:03;github;http;https://github.com;OK;288;code 200
+2026-11-14 20:00:03;disque C;disque;C:\;OK;0;82% utilise, 85.7 Go libre
+2026-11-14 21:00:04;box;ping;192.168.1.1;OK;3;
+2026-11-14 21:00:04;dns google;port;8.8.8.8:53;OK;15;
+2026-11-14 21:00:04;dns cloudflare;port;1.1.1.1:53;OK;19;
+2026-11-14 21:00:04;portfolio;http;https://ramanhassan.ch;OK;300;code 200
+2026-11-14 21:00:04;github;http;https://github.com;OK;329;code 200
+2026-11-14 21:00:04;disque C;disque;C:\;OK;0;82% utilise, 85.7 Go libre
+2026-11-14 22:00:04;box;ping;192.168.1.1;OK;8;
+2026-11-14 22:00:04;dns google;port;8.8.8.8:53;OK;12;
+2026-11-14 22:00:04;dns cloudflare;port;1.1.1.1:53;OK;12;
+2026-11-14 22:00:04;portfolio;http;https://ramanhassan.ch;OK;151;code 200
+2026-11-14 22:00:04;github;http;https://github.com;OK;322;code 200
+2026-11-14 22:00:04;disque C;disque;C:\;OK;0;82% utilise, 85.7 Go libre
+2026-11-14 23:00:02;box;ping;192.168.1.1;OK;8;
+2026-11-14 23:00:02;dns google;port;8.8.8.8:53;OK;14;
+2026-11-14 23:00:02;dns cloudflare;port;1.1.1.1:53;OK;17;
+2026-11-14 23:00:02;portfolio;http;https://ramanhassan.ch;OK;170;code 200
+2026-11-14 23:00:02;github;http;https://github.com;OK;326;code 200
+2026-11-14 23:00:02;disque C;disque;C:\;OK;1;82% utilise, 85.7 Go libre
+2026-11-15 00:00:04;box;ping;192.168.1.1;OK;4;
+2026-11-15 00:00:04;dns google;port;8.8.8.8:53;OK;13;
+2026-11-15 00:00:04;dns cloudflare;port;1.1.1.1:53;OK;18;
+2026-11-15 00:00:04;portfolio;http;https://ramanhassan.ch;OK;286;code 200
+2026-11-15 00:00:04;github;http;https://github.com;OK;343;code 200
+2026-11-15 00:00:04;disque C;disque;C:\;OK;0;82% utilise, 85.7 Go libre
+2026-11-15 01:00:02;box;ping;192.168.1.1;OK;3;
+2026-11-15 01:00:02;dns google;port;8.8.8.8:53;OK;20;
+2026-11-15 01:00:02;dns cloudflare;port;1.1.1.1:53;OK;20;
+2026-11-15 01:00:02;portfolio;http;https://ramanhassan.ch;OK;156;code 200
+2026-11-15 01:00:02;github;http;https://github.com;OK;324;code 200
+2026-11-15 01:00:02;disque C;disque;C:\;OK;0;82% utilise, 85.7 Go libre
+2026-11-15 02:00:04;box;ping;192.168.1.1;OK;5;
+2026-11-15 02:00:04;dns google;port;8.8.8.8:53;OK;19;
+2026-11-15 02:00:04;dns cloudflare;port;1.1.1.1:53;OK;19;
+2026-11-15 02:00:04;portfolio;http;https://ramanhassan.ch;OK;276;code 200
+2026-11-15 02:00:04;github;http;https://github.com;OK;289;code 200
+2026-11-15 02:00:04;disque C;disque;C:\;OK;1;82% utilise, 85.7 Go libre
+2026-11-15 03:00:03;box;ping;192.168.1.1;DOWN;3004;pas de reponse au ping
+2026-11-15 03:00:03;dns google;port;8.8.8.8:53;DOWN;3001;timeout
+2026-11-15 03:00:03;dns cloudflare;port;1.1.1.1:53;DOWN;3001;timeout
+2026-11-15 03:00:03;portfolio;http;https://ramanhassan.ch;DOWN;16;<urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-15 03:00:03;github;http;https://github.com;DOWN;20;<urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-15 03:00:03;disque C;disque;C:\;OK;0;82% utilise, 85.7 Go libre
+2026-11-15 04:00:04;box;ping;192.168.1.1;DOWN;3004;pas de reponse au ping
+2026-11-15 04:00:04;dns google;port;8.8.8.8:53;DOWN;3001;timeout
+2026-11-15 04:00:04;dns cloudflare;port;1.1.1.1:53;DOWN;3001;timeout
+2026-11-15 04:00:04;portfolio;http;https://ramanhassan.ch;DOWN;33;<urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-15 04:00:04;github;http;https://github.com;DOWN;9;<urlopen error [Errno 11001] getaddrinfo failed>
+2026-11-15 04:00:04;disque C;disque;C:\;OK;0;82% utilise, 85.7 Go libre
+2026-11-15 05:00:04;box;ping;192.168.1.1;OK;8;
+2026-11-15 05:00:04;dns google;port;8.8.8.8:53;OK;14;
+2026-11-15 05:00:04;dns cloudflare;port;1.1.1.1:53;OK;14;
+2026-11-15 05:00:04;portfolio;http;https://ramanhassan.ch;OK;178;code 200
+2026-11-15 05:00:04;github;http;https://github.com;OK;418;code 200
+2026-11-15 05:00:04;disque C;disque;C:\;OK;1;82% utilise, 85.7 Go libre
+2026-11-15 06:00:03;box;ping;192.168.1.1;OK;2;
+2026-11-15 06:00:03;dns google;port;8.8.8.8:53;OK;22;
+2026-11-15 06:00:03;dns cloudflare;port;1.1.1.1:53;OK;10;
+2026-11-15 06:00:03;portfolio;http;https://ramanhassan.ch;OK;282;code 200
+2026-11-15 06:00:03;github;http;https://github.com;OK;326;code 200
+2026-11-15 06:00:03;disque C;disque;C:\;OK;1;83% utilise, 81.0 Go libre
+2026-11-15 07:00:02;box;ping;192.168.1.1;OK;7;
+2026-11-15 07:00:02;dns google;port;8.8.8.8:53;OK;21;
+2026-11-15 07:00:02;dns cloudflare;port;1.1.1.1:53;OK;16;
+2026-11-15 07:00:02;portfolio;http;https://ramanhassan.ch;OK;288;code 200
+2026-11-15 07:00:02;github;http;https://github.com;OK;384;code 200
+2026-11-15 07:00:02;disque C;disque;C:\;OK;1;83% utilise, 81.0 Go libre
+2026-11-15 08:00:00;box;ping;192.168.1.1;OK;3;
+2026-11-15 08:00:00;dns google;port;8.8.8.8:53;OK;16;
+2026-11-15 08:00:00;dns cloudflare;port;1.1.1.1:53;OK;16;
+2026-11-15 08:00:00;portfolio;http;https://ramanhassan.ch;OK;318;code 200
+2026-11-15 08:00:00;github;http;https://github.com;OK;350;code 200
+2026-11-15 08:00:00;disque C;disque;C:\;OK;0;83% utilise, 81.0 Go libre
+2026-11-15 09:00:00;box;ping;192.168.1.1;OK;6;
+2026-11-15 09:00:00;dns google;port;8.8.8.8:53;OK;22;
+2026-11-15 09:00:00;dns cloudflare;port;1.1.1.1:53;OK;18;
+2026-11-15 09:00:00;portfolio;http;https://ramanhassan.ch;OK;314;code 200
+2026-11-15 09:00:00;github;http;https://github.com;OK;390;code 200
+2026-11-15 09:00:00;disque C;disque;C:\;OK;1;83% utilise, 81.0 Go libre
+2026-11-15 10:00:02;box;ping;192.168.1.1;OK;8;
+2026-11-15 10:00:02;dns google;port;8.8.8.8:53;OK;22;
+2026-11-15 10:00:02;dns cloudflare;port;1.1.1.1:53;OK;14;
+2026-11-15 10:00:02;portfolio;http;https://ramanhassan.ch;OK;145;code 200
+2026-11-15 10:00:02;github;http;https://github.com;OK;420;code 200
+2026-11-15 10:00:02;disque C;disque;C:\;OK;1;83% utilise, 81.0 Go libre
+2026-11-15 11:00:02;box;ping;192.168.1.1;OK;4;
+2026-11-15 11:00:02;dns google;port;8.8.8.8:53;OK;21;
+2026-11-15 11:00:02;dns cloudflare;port;1.1.1.1:53;OK;10;
+2026-11-15 11:00:02;portfolio;http;https://ramanhassan.ch;OK;266;code 200
+2026-11-15 11:00:02;github;http;https://github.com;OK;195;code 200
+2026-11-15 11:00:02;disque C;disque;C:\;OK;0;83% utilise, 81.0 Go libre
+2026-11-15 12:00:02;box;ping;192.168.1.1;OK;4;
+2026-11-15 12:00:02;dns google;port;8.8.8.8:53;OK;23;
+2026-11-15 12:00:02;dns cloudflare;port;1.1.1.1:53;OK;12;
+2026-11-15 12:00:02;portfolio;http;https://ramanhassan.ch;OK;241;code 200
+2026-11-15 12:00:02;github;http;https://github.com;OK;280;code 200
+2026-11-15 12:00:02;disque C;disque;C:\;OK;1;83% utilise, 81.0 Go libre
+2026-11-15 13:00:00;box;ping;192.168.1.1;OK;4;
+2026-11-15 13:00:00;dns google;port;8.8.8.8:53;OK;19;
+2026-11-15 13:00:00;dns cloudflare;port;1.1.1.1:53;OK;15;
+2026-11-15 13:00:00;portfolio;http;https://ramanhassan.ch;OK;280;code 200
+2026-11-15 13:00:00;github;http;https://github.com;OK;251;code 200
+2026-11-15 13:00:00;disque C;disque;C:\;OK;0;83% utilise, 81.0 Go libre
+2026-11-15 14:00:03;box;ping;192.168.1.1;OK;6;
+2026-11-15 14:00:03;dns google;port;8.8.8.8:53;OK;23;
+2026-11-15 14:00:03;dns cloudflare;port;1.1.1.1:53;OK;15;
+2026-11-15 14:00:03;portfolio;http;https://ramanhassan.ch;OK;231;code 200
+2026-11-15 14:00:03;github;http;https://github.com;OK;354;code 200
+2026-11-15 14:00:03;disque C;disque;C:\;OK;1;83% utilise, 81.0 Go libre
+2026-11-15 15:00:01;box;ping;192.168.1.1;OK;4;
+2026-11-15 15:00:01;dns google;port;8.8.8.8:53;OK;13;
+2026-11-15 15:00:01;dns cloudflare;port;1.1.1.1:53;OK;11;
+2026-11-15 15:00:01;portfolio;http;https://ramanhassan.ch;OK;178;code 200
+2026-11-15 15:00:01;github;http;https://github.com;OK;239;code 200
+2026-11-15 15:00:01;disque C;disque;C:\;OK;0;83% utilise, 81.0 Go libre
+2026-11-15 16:00:00;box;ping;192.168.1.1;OK;9;
+2026-11-15 16:00:00;dns google;port;8.8.8.8:53;OK;25;
+2026-11-15 16:00:00;dns cloudflare;port;1.1.1.1:53;OK;18;
+2026-11-15 16:00:00;portfolio;http;https://ramanhassan.ch;OK;186;code 200
+2026-11-15 16:00:00;github;http;https://github.com;OK;247;code 200
+2026-11-15 16:00:00;disque C;disque;C:\;OK;1;83% utilise, 81.0 Go libre
+2026-11-15 17:00:00;box;ping;192.168.1.1;OK;4;
+2026-11-15 17:00:00;dns google;port;8.8.8.8:53;OK;18;
+2026-11-15 17:00:00;dns cloudflare;port;1.1.1.1:53;OK;17;
+2026-11-15 17:00:00;portfolio;http;https://ramanhassan.ch;OK;234;code 200
+2026-11-15 17:00:00;github;http;https://github.com;OK;336;code 200
+2026-11-15 17:00:00;disque C;disque;C:\;OK;1;83% utilise, 81.0 Go libre
+2026-11-15 18:00:01;box;ping;192.168.1.1;OK;2;
+2026-11-15 18:00:01;dns google;port;8.8.8.8:53;OK;19;
+2026-11-15 18:00:01;dns cloudflare;port;1.1.1.1:53;OK;19;
+2026-11-15 18:00:01;portfolio;http;https://ramanhassan.ch;OK;283;code 200
+2026-11-15 18:00:01;github;http;https://github.com;OK;280;code 200
+2026-11-15 18:00:01;disque C;disque;C:\;OK;1;84% utilise, 76.2 Go libre
+2026-11-15 19:00:03;box;ping;192.168.1.1;OK;8;
+2026-11-15 19:00:03;dns google;port;8.8.8.8:53;OK;13;
+2026-11-15 19:00:03;dns cloudflare;port;1.1.1.1:53;OK;16;
+2026-11-15 19:00:03;portfolio;http;https://ramanhassan.ch;OK;302;code 200
+2026-11-15 19:00:03;github;http;https://github.com;OK;282;code 200
+2026-11-15 19:00:03;disque C;disque;C:\;OK;0;84% utilise, 76.2 Go libre
+2026-11-15 20:00:01;box;ping;192.168.1.1;OK;3;
+2026-11-15 20:00:01;dns google;port;8.8.8.8:53;OK;15;
+2026-11-15 20:00:01;dns cloudflare;port;1.1.1.1:53;OK;16;
+2026-11-15 20:00:01;portfolio;http;https://ramanhassan.ch;OK;181;code 200
+2026-11-15 20:00:01;github;http;https://github.com;OK;208;code 200
+2026-11-15 20:00:01;disque C;disque;C:\;OK;1;84% utilise, 76.2 Go libre
+2026-11-15 21:00:04;box;ping;192.168.1.1;OK;2;
+2026-11-15 21:00:04;dns google;port;8.8.8.8:53;OK;13;
+2026-11-15 21:00:04;dns cloudflare;port;1.1.1.1:53;OK;9;
+2026-11-15 21:00:04;portfolio;http;https://ramanhassan.ch;OK;285;code 200
+2026-11-15 21:00:04;github;http;https://github.com;OK;218;code 200
+2026-11-15 21:00:04;disque C;disque;C:\;OK;0;84% utilise, 76.2 Go libre
+2026-11-15 22:00:02;box;ping;192.168.1.1;OK;2;
+2026-11-15 22:00:02;dns google;port;8.8.8.8:53;OK;13;
+2026-11-15 22:00:02;dns cloudflare;port;1.1.1.1:53;OK;12;
+2026-11-15 22:00:02;portfolio;http;https://ramanhassan.ch;OK;297;code 200
+2026-11-15 22:00:02;github;http;https://github.com;OK;276;code 200
+2026-11-15 22:00:02;disque C;disque;C:\;OK;0;84% utilise, 76.2 Go libre
+2026-11-15 23:00:02;box;ping;192.168.1.1;OK;7;
+2026-11-15 23:00:02;dns google;port;8.8.8.8:53;OK;21;
+2026-11-15 23:00:02;dns cloudflare;port;1.1.1.1:53;OK;14;
+2026-11-15 23:00:02;portfolio;http;https://ramanhassan.ch;OK;261;code 200
+2026-11-15 23:00:02;github;http;https://github.com;OK;211;code 200
+2026-11-15 23:00:02;disque C;disque;C:\;OK;0;84% utilise, 76.2 Go libre
+2026-11-16 00:00:03;box;ping;192.168.1.1;OK;9;
+2026-11-16 00:00:03;dns google;port;8.8.8.8:53;OK;19;
+2026-11-16 00:00:03;dns cloudflare;port;1.1.1.1:53;OK;16;
+2026-11-16 00:00:03;portfolio;http;https://ramanhassan.ch;OK;219;code 200
+2026-11-16 00:00:03;github;http;https://github.com;OK;201;code 200
+2026-11-16 00:00:03;disque C;disque;C:\;OK;0;84% utilise, 76.2 Go libre
+2026-11-16 01:00:00;box;ping;192.168.1.1;OK;7;
+2026-11-16 01:00:00;dns google;port;8.8.8.8:53;OK;23;
+2026-11-16 01:00:00;dns cloudflare;port;1.1.1.1:53;OK;13;
+2026-11-16 01:00:00;portfolio;http;https://ramanhassan.ch;DOWN;377;erreur serveur 503
+2026-11-16 01:00:00;github;http;https://github.com;OK;221;code 200
+2026-11-16 01:00:00;disque C;disque;C:\;OK;0;84% utilise, 76.2 Go libre
+2026-11-16 02:00:01;box;ping;192.168.1.1;OK;7;
+2026-11-16 02:00:01;dns google;port;8.8.8.8:53;OK;14;
+2026-11-16 02:00:01;dns cloudflare;port;1.1.1.1:53;OK;20;
+2026-11-16 02:00:01;portfolio;http;https://ramanhassan.ch;OK;279;code 200
+2026-11-16 02:00:01;github;http;https://github.com;OK;414;code 200
+2026-11-16 02:00:01;disque C;disque;C:\;OK;0;84% utilise, 76.2 Go libre
+2026-11-16 03:00:04;box;ping;192.168.1.1;OK;6;
+2026-11-16 03:00:04;dns google;port;8.8.8.8:53;OK;22;
+2026-11-16 03:00:04;dns cloudflare;port;1.1.1.1:53;OK;10;
+2026-11-16 03:00:04;portfolio;http;https://ramanhassan.ch;OK;318;code 200
+2026-11-16 03:00:04;github;http;https://github.com;OK;396;code 200
+2026-11-16 03:00:04;disque C;disque;C:\;OK;1;84% utilise, 76.2 Go libre
+2026-11-16 04:00:04;box;ping;192.168.1.1;OK;7;
+2026-11-16 04:00:04;dns google;port;8.8.8.8:53;OK;14;
+2026-11-16 04:00:04;dns cloudflare;port;1.1.1.1:53;OK;14;
+2026-11-16 04:00:04;portfolio;http;https://ramanhassan.ch;OK;197;code 200
+2026-11-16 04:00:04;github;http;https://github.com;OK;316;code 200
+2026-11-16 04:00:04;disque C;disque;C:\;OK;1;84% utilise, 76.2 Go libre
+2026-11-16 05:00:01;box;ping;192.168.1.1;OK;5;
+2026-11-16 05:00:01;dns google;port;8.8.8.8:53;OK;24;
+2026-11-16 05:00:01;dns cloudflare;port;1.1.1.1:53;OK;12;
+2026-11-16 05:00:01;portfolio;http;https://ramanhassan.ch;OK;242;code 200
+2026-11-16 05:00:01;github;http;https://github.com;OK;369;code 200
+2026-11-16 05:00:01;disque C;disque;C:\;OK;0;84% utilise, 76.2 Go libre
+2026-11-16 06:00:01;box;ping;192.168.1.1;OK;9;
+2026-11-16 06:00:01;dns google;port;8.8.8.8:53;OK;17;
+2026-11-16 06:00:01;dns cloudflare;port;1.1.1.1:53;OK;20;
+2026-11-16 06:00:01;portfolio;http;https://ramanhassan.ch;OK;147;code 200
+2026-11-16 06:00:01;github;http;https://github.com;OK;187;code 200
+2026-11-16 06:00:01;disque C;disque;C:\;OK;1;85% utilise, 71.4 Go libre
+2026-11-16 07:00:03;box;ping;192.168.1.1;OK;6;
+2026-11-16 07:00:03;dns google;port;8.8.8.8:53;OK;15;
+2026-11-16 07:00:03;dns cloudflare;port;1.1.1.1:53;OK;20;
+2026-11-16 07:00:03;portfolio;http;https://ramanhassan.ch;OK;294;code 200
+2026-11-16 07:00:03;github;http;https://github.com;OK;268;code 200
+2026-11-16 07:00:03;disque C;disque;C:\;OK;1;85% utilise, 71.4 Go libre
+2026-11-16 08:00:02;box;ping;192.168.1.1;OK;7;
+2026-11-16 08:00:02;dns google;port;8.8.8.8:53;OK;13;
+2026-11-16 08:00:02;dns cloudflare;port;1.1.1.1:53;OK;12;
+2026-11-16 08:00:02;portfolio;http;https://ramanhassan.ch;OK;166;code 200
+2026-11-16 08:00:02;github;http;https://github.com;OK;238;code 200
+2026-11-16 08:00:02;disque C;disque;C:\;OK;1;85% utilise, 71.4 Go libre
+2026-11-16 09:00:01;box;ping;192.168.1.1;OK;7;
+2026-11-16 09:00:01;dns google;port;8.8.8.8:53;OK;15;
+2026-11-16 09:00:01;dns cloudflare;port;1.1.1.1:53;OK;16;
+2026-11-16 09:00:01;portfolio;http;https://ramanhassan.ch;OK;299;code 200
+2026-11-16 09:00:01;github;http;https://github.com;OK;410;code 200
+2026-11-16 09:00:01;disque C;disque;C:\;OK;0;85% utilise, 71.4 Go libre
+2026-11-16 10:00:03;box;ping;192.168.1.1;OK;7;
+2026-11-16 10:00:03;dns google;port;8.8.8.8:53;OK;24;
+2026-11-16 10:00:03;dns cloudflare;port;1.1.1.1:53;OK;19;
+2026-11-16 10:00:03;portfolio;http;https://ramanhassan.ch;OK;161;code 200
+2026-11-16 10:00:03;github;http;https://github.com;OK;393;code 200
+2026-11-16 10:00:03;disque C;disque;C:\;OK;0;85% utilise, 71.4 Go libre
+2026-11-16 11:00:03;box;ping;192.168.1.1;OK;5;
+2026-11-16 11:00:03;dns google;port;8.8.8.8:53;OK;19;
+2026-11-16 11:00:03;dns cloudflare;port;1.1.1.1:53;OK;11;
+2026-11-16 11:00:03;portfolio;http;https://ramanhassan.ch;OK;251;code 200
+2026-11-16 11:00:03;github;http;https://github.com;OK;382;code 200
+2026-11-16 11:00:03;disque C;disque;C:\;OK;1;85% utilise, 71.4 Go libre
+2026-11-16 12:00:00;box;ping;192.168.1.1;OK;8;
+2026-11-16 12:00:00;dns google;port;8.8.8.8:53;OK;19;
+2026-11-16 12:00:00;dns cloudflare;port;1.1.1.1:53;OK;15;
+2026-11-16 12:00:00;portfolio;http;https://ramanhassan.ch;OK;161;code 200
+2026-11-16 12:00:00;github;http;https://github.com;OK;365;code 200
+2026-11-16 12:00:00;disque C;disque;C:\;OK;0;85% utilise, 71.4 Go libre
+2026-11-16 13:00:01;box;ping;192.168.1.1;OK;4;
+2026-11-16 13:00:01;dns google;port;8.8.8.8:53;OK;12;
+2026-11-16 13:00:01;dns cloudflare;port;1.1.1.1:53;OK;11;
+2026-11-16 13:00:01;portfolio;http;https://ramanhassan.ch;OK;291;code 200
+2026-11-16 13:00:01;github;http;https://github.com;OK;411;code 200
+2026-11-16 13:00:01;disque C;disque;C:\;OK;1;85% utilise, 71.4 Go libre
+2026-11-16 14:00:01;box;ping;192.168.1.1;OK;9;
+2026-11-16 14:00:01;dns google;port;8.8.8.8:53;OK;22;
+2026-11-16 14:00:01;dns cloudflare;port;1.1.1.1:53;OK;14;
+2026-11-16 14:00:01;portfolio;http;https://ramanhassan.ch;OK;179;code 200
+2026-11-16 14:00:01;github;http;https://github.com;OK;320;code 200
+2026-11-16 14:00:01;disque C;disque;C:\;OK;0;85% utilise, 71.4 Go libre
+2026-11-16 15:00:00;box;ping;192.168.1.1;OK;2;
+2026-11-16 15:00:00;dns google;port;8.8.8.8:53;OK;24;
+2026-11-16 15:00:00;dns cloudflare;port;1.1.1.1:53;OK;20;
+2026-11-16 15:00:00;portfolio;http;https://ramanhassan.ch;OK;306;code 200
+2026-11-16 15:00:00;github;http;https://github.com;OK;206;code 200
+2026-11-16 15:00:00;disque C;disque;C:\;OK;0;85% utilise, 71.4 Go libre
+2026-11-16 16:00:03;box;ping;192.168.1.1;OK;5;
+2026-11-16 16:00:03;dns google;port;8.8.8.8:53;OK;25;
+2026-11-16 16:00:03;dns cloudflare;port;1.1.1.1:53;OK;12;
+2026-11-16 16:00:03;portfolio;http;https://ramanhassan.ch;OK;147;code 200
+2026-11-16 16:00:03;github;http;https://github.com;OK;244;code 200
+2026-11-16 16:00:03;disque C;disque;C:\;OK;0;85% utilise, 71.4 Go libre
+2026-11-16 17:00:02;box;ping;192.168.1.1;OK;5;
+2026-11-16 17:00:02;dns google;port;8.8.8.8:53;OK;24;
+2026-11-16 17:00:02;dns cloudflare;port;1.1.1.1:53;OK;18;
+2026-11-16 17:00:02;portfolio;http;https://ramanhassan.ch;OK;223;code 200
+2026-11-16 17:00:02;github;http;https://github.com;OK;246;code 200
+2026-11-16 17:00:02;disque C;disque;C:\;OK;1;85% utilise, 71.4 Go libre

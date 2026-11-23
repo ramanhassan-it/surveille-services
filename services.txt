@@ -1,0 +1,15 @@
+# liste des trucs a surveiller
+# format : nom ; type ; cible
+# types : ping, port (ip:port), http (url), disque (chemin)
+
+box          ; ping   ; 192.168.1.1
+dns google   ; port   ; 8.8.8.8:53
+dns cloudflare ; port ; 1.1.1.1:53
+portfolio    ; http   ; https://ramanhassan.ch
+github       ; http   ; https://github.com
+disque C     ; disque ; C:\
+
+# exemples (a decommenter si t'as ces machines)
+# nas partage  ; port ; 192.168.1.20:445
+# imprimante   ; ping ; 192.168.1.30
+# rdp serveur  ; port ; 192.168.1.10:3389
